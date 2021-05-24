@@ -4,7 +4,7 @@ let num = "1001";
 console.log(num.length);
 console.log("4.0");
 //Use type conversion to print the length (number of digits) of an integer.
-
+if (typeof "1001");
 
 
 
